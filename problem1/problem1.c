@@ -28,12 +28,75 @@ void bruteforce(const int * const arr, const int k)
         {
             if (arr[i] + arr[j] == k)
             {
-                printf("found: %d(%ld) + %d(%ld) = %d\n", arr[i], i, arr[j], j, k);
+                printf("found: %d + %d = %d\n", arr[i], arr[j], k);
                 return;
             }
         }
     }
     printf("none exists\n");
+}
+
+int isInclude(const int * const arr, const int n)
+{
+    for (size_t i=0; arr[i] != '\0'; ++i)
+    {
+        if (arr[i] == n) 
+        {
+            return i;
+        }
+    }
+
+    return 0;
+}
+
+void twopass(const int * const arr, const int k)
+{
+    /* 주어진 배열의 크기 최대가 SIZE라고 가정 */
+    int *m = malloc(sizeof(*m) * SIZE);
+
+    for (size_t i=0; arr[i] != '\0'; ++i) 
+    {
+        m[i] = arr[i];
+    }
+
+    for (size_t i=0; arr[i] != '\0'; ++i)
+    {
+        int index = isInclude(m, k - arr[i]);
+        if (index != i && index)
+        {
+            printf("found: %d + %d = %d\n", k - arr[i], arr[i], k);
+            free(m);
+            return;
+        }
+    }
+
+    free(m);
+    printf("none exists\n");
+}
+
+void onepass(const int * const arr, const int k)
+{
+    /* 주어진 배열의 크기 최대가 SIZE라고 가정 */
+    int *m = malloc(sizeof(*m) * SIZE);
+
+    for (size_t i=0; arr[i] != '\0'; ++i)
+    {
+        int index = isInclude(m, k - arr[i]);
+        if (index != i && index)
+        {
+            printf("found: %d + %d = %d\n", k - arr[i], arr[i], k);
+            free(m);
+            return;
+        }
+        else
+        {
+            m[i] = arr[i];
+        }
+    }
+
+    free(m);
+    printf("none exists\n");
+
 }
 
 int main(void)
@@ -53,6 +116,8 @@ int main(void)
 
     printf("k: %ld\n", k);
     bruteforce(arr, k);
+    twopass(arr, k);
+    onepass(arr, k);
 
     return 0;
 }
