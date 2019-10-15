@@ -20,3 +20,5 @@ The following test should pass:
  	node = Node('root', Node('left', Node('left.left')), Node('right'))
 	assert deserialize(serialize(node)).left.left.val == 'left.left'
 ```
+
+[Explanation](https://muicode.github.io/dcp/2019/09/20/en-dcp-3.html)
