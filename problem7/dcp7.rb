@@ -6,7 +6,8 @@ def decode(s)
     elsif n == 2
         if s.to_i <= 26 then return 2 else return 1 end
     else
-        return decode(s[1..]) + (if s[0...2].to_i <= 26 then decode(s[2..]) else 0 end)
+        return decode(s[1..]) + 
+            (if s[0...2].to_i <= 26 then decode(s[2..]) else 0 end)
     end
 end
 
