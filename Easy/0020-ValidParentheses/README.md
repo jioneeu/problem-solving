@@ -1,6 +1,6 @@
 ## [Leetcode](https://leetcode.com/)
 
-[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (`String`, `Stack`)
 
 - Time Complexity: O(S), S = # of chars
 - Space Complexity: O(P), P = # of open parenthesis
