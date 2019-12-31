@@ -13,30 +13,30 @@ My solutions to LeetCode problems.
 - [Two Pointers](#twopointers)
 
 ## Easy
-[1. Two Sum](https://github.com/muicode/leetcode/tree/master/Easy/0001-TwoSum) | [7. Reverse Integer](https://github.com/muicode/leetcode/tree/master/Easy/0007-ReverseInteger) | [9. Palindrome Number](https://github.com/muicode/leetcode/tree/master/Easy/0009-PalindromeNumber) | [13. Roman to Integer](https://github.com/muicode/leetcode/tree/master/Easy/0013-RomanToInteger) | [14. Longest Common Prefix](https://github.com/muicode/leetcode/tree/master/Easy/0014-LongestCommonPrefix) | [20. Valid Parenthesis](https://github.com/muicode/leetcode/tree/master/Easy/0020-ValidParentheses) | [21. Merge Two Sorted Lists](https://github.com/muicode/leetcode/tree/master/Easy/0021-MergeTwoSortedLists) | [26. Remove Duplicates from Sorted Array](https://github.com/muicode/leetcode/tree/master/Easy/0026-RemoveDuplicatesFromSortedArray) | [27. Remove Element](https://github.com/muicode/leetcode/tree/master/Easy/0027-RemoveElement) | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [38. Count and Say](https://leetcode.com/problems/count-and-say/)
+[1. Two Sum](https://github.com/muicode/leetcode/tree/master/Easy/0001-two-sum) | [7. Reverse Integer](https://github.com/muicode/leetcode/tree/master/Easy/0007-reverse-integer) | [9. Palindrome Number](https://github.com/muicode/leetcode/tree/master/Easy/0009-palindrome-number) | [13. Roman to Integer](https://github.com/muicode/leetcode/tree/master/Easy/0013-roman-to-integer) | [14. Longest Common Prefix](https://github.com/muicode/leetcode/tree/master/Easy/0014-longest-common-prefix) | [20. Valid Parenthesis](https://github.com/muicode/leetcode/tree/master/Easy/0020-valid-parentheses) | [21. Merge Two Sorted Lists](https://github.com/muicode/leetcode/tree/master/Easy/0021-merge-two-sorted-lists) | [26. Remove Duplicates from Sorted Array](https://github.com/muicode/leetcode/tree/master/Easy/0026-remove-duplicates-from-sorted-array) | [27. Remove Element](https://github.com/muicode/leetcode/tree/master/Easy/0027-remove-element) | [28. Implement strStr()](https://github.com/muicode/leetcode/tree/master/Easy/0028-implement-strstr/) | [35. Search Insert Position](https://github.com/muicode/leetcode/tree/master/Easy/0035-search-insert-position/) | [38. Count and Say](https://github.com/muicode/leetcode/tree/master/Easy/0038-count-and-say/)
 
 ---
 
 ### <a id="array">Array</a>
-[Two Sum](https://github.com/muicode/leetcode/tree/master/Easy/0001-TwoSum) | [Remove Duplicates from Sorted Array](https://github.com/muicode/leetcode/tree/master/Easy/0026-RemoveDuplicatesFromSortedArray) | [Remove Element](https://github.com/muicode/leetcode/tree/master/Easy/0027-RemoveElement) | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+[Two Sum](https://github.com/muicode/leetcode/tree/master/Easy/0001-two-sum) | [Remove Duplicates from Sorted Array](https://github.com/muicode/leetcode/tree/master/Easy/0026-remove-duplicates-from-sorted-array) | [Remove Element](https://github.com/muicode/leetcode/tree/master/Easy/0027-remove-element) | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 
 ### <a id="binarysearch">Binary Search</a>
 [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 
 ### <a id="hashtable">Hash Table</a>
-[Two Sum](https://github.com/muicode/leetcode/tree/master/Easy/0001-TwoSum) 
+[Two Sum](https://github.com/muicode/leetcode/tree/master/Easy/0001-two-sum) 
 
 ### <a id="linkedlist">Linked List</a>
-[Merge Two Sorted Lists](https://github.com/muicode/leetcode/tree/master/Easy/0021-MergeTwoSortedLists)
+[Merge Two Sorted Lists](https://github.com/muicode/leetcode/tree/master/Easy/0021-merge-two-sorted-lists)
 
 ### <a id="math">Math</a>
-[Reverse Integer](https://github.com/muicode/leetcode/tree/master/Easy/0007-ReverseInteger) | [Palindrome Number](https://github.com/muicode/leetcode/tree/master/Easy/0009-PalindromeNumber) | [Roman to Integer](https://github.com/muicode/leetcode/tree/master/Easy/0013-RomanToInteger)
+[Reverse Integer](https://github.com/muicode/leetcode/tree/master/Easy/0007-reverse-integer) | [Palindrome Number](https://github.com/muicode/leetcode/tree/master/Easy/0009-palindrome-number) | [Roman to Integer](https://github.com/muicode/leetcode/tree/master/Easy/0013-roman-to-integer)
 
 ### <a id="stack">Stack</a>
-[Valid Parenthesis](https://github.com/muicode/leetcode/tree/master/Easy/0020-ValidParentheses)
+[Valid Parenthesis](https://github.com/muicode/leetcode/tree/master/Easy/0020-valid-parentheses)
 
 ### <a id="string">String</a>
-[Roman to Integer](https://github.com/muicode/leetcode/tree/master/Easy/0013-RomanToInteger) | [Longest Common Prefix](https://github.com/muicode/leetcode/tree/master/Easy/0014-LongestCommonPrefix) | [Valid Parenthesis](https://github.com/muicode/leetcode/tree/master/Easy/0020-ValidParentheses) | [Count and Say](https://leetcode.com/problems/count-and-say/)
+[Roman to Integer](https://github.com/muicode/leetcode/tree/master/Easy/0013-roman-to-integer) | [Longest Common Prefix](https://github.com/muicode/leetcode/tree/master/Easy/0014-longest-common-prefix) | [Valid Parenthesis](https://github.com/muicode/leetcode/tree/master/Easy/0020-valid-parentheses) | [Count and Say](https://leetcode.com/problems/count-and-say/)
 
 ### <a id="twopointers">Two Pointers</a>
-[Remove Duplicates from Sorted Array](https://github.com/muicode/leetcode/tree/master/Easy/0026-RemoveDuplicatesFromSortedArray) | [Remove Element](https://github.com/muicode/leetcode/tree/master/Easy/0027-RemoveElement) | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+[Remove Duplicates from Sorted Array](https://github.com/muicode/leetcode/tree/master/Easy/0026-remove-duplicates-from-sorted-array) | [Remove Element](https://github.com/muicode/leetcode/tree/master/Easy/0027-remove-element) | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
