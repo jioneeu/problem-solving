@@ -18,10 +18,10 @@ My solutions to LeetCode problems.
 ---
 
 ### <a id="array">Array</a>
-[Two Sum](https://github.com/muicode/leetcode/tree/master/Easy/0001-two-sum) | [Remove Duplicates from Sorted Array](https://github.com/muicode/leetcode/tree/master/Easy/0026-remove-duplicates-from-sorted-array) | [Remove Element](https://github.com/muicode/leetcode/tree/master/Easy/0027-remove-element) | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+[Two Sum](https://github.com/muicode/leetcode/tree/master/Easy/0001-two-sum) | [Remove Duplicates from Sorted Array](https://github.com/muicode/leetcode/tree/master/Easy/0026-remove-duplicates-from-sorted-array) | [Remove Element](https://github.com/muicode/leetcode/tree/master/Easy/0027-remove-element) | [Search Insert Position](https://github.com/muicode/leetcode/tree/master/Easy/0035-search-insert-position/)
 
 ### <a id="binarysearch">Binary Search</a>
-[Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+[Search Insert Position](https://github.com/muicode/leetcode/tree/master/Easy/0035-search-insert-position/)
 
 ### <a id="hashtable">Hash Table</a>
 [Two Sum](https://github.com/muicode/leetcode/tree/master/Easy/0001-two-sum) 
@@ -36,7 +36,7 @@ My solutions to LeetCode problems.
 [Valid Parenthesis](https://github.com/muicode/leetcode/tree/master/Easy/0020-valid-parentheses)
 
 ### <a id="string">String</a>
-[Roman to Integer](https://github.com/muicode/leetcode/tree/master/Easy/0013-roman-to-integer) | [Longest Common Prefix](https://github.com/muicode/leetcode/tree/master/Easy/0014-longest-common-prefix) | [Valid Parenthesis](https://github.com/muicode/leetcode/tree/master/Easy/0020-valid-parentheses) | [Count and Say](https://leetcode.com/problems/count-and-say/)
+[Roman to Integer](https://github.com/muicode/leetcode/tree/master/Easy/0013-roman-to-integer) | [Longest Common Prefix](https://github.com/muicode/leetcode/tree/master/Easy/0014-longest-common-prefix) | [Valid Parenthesis](https://github.com/muicode/leetcode/tree/master/Easy/0020-valid-parentheses) | [Count and Say](https://github.com/muicode/leetcode/tree/master/Easy/0038-count-and-say/)
 
 ### <a id="twopointers">Two Pointers</a>
-[Remove Duplicates from Sorted Array](https://github.com/muicode/leetcode/tree/master/Easy/0026-remove-duplicates-from-sorted-array) | [Remove Element](https://github.com/muicode/leetcode/tree/master/Easy/0027-remove-element) | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+[Remove Duplicates from Sorted Array](https://github.com/muicode/leetcode/tree/master/Easy/0026-remove-duplicates-from-sorted-array) | [Remove Element](https://github.com/muicode/leetcode/tree/master/Easy/0027-remove-element) | [Implement strStr()](https://github.com/muicode/leetcode/tree/master/Easy/0028-implement-strstr/)
