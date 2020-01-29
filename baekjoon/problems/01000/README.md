@@ -1,16 +1,16 @@
 ## 문제
 - [1000번 A+B](https://www.acmicpc.net/problem/1000)
 
-## C
-```cpp
+## Solution
+```c
 #include <stdio.h>
 
 int main(void)
 {
-	int a, b;
-	scanf("%d%d", &a, &b);
-	printf("%d\n", a+b);
-	return 0;
+    int a, b;
+    scanf("%d%d", &a, &b);
+    printf("%d\n", a+b);
+    return 0;
 }
 ```
 
