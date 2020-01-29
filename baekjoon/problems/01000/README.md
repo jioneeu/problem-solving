@@ -21,4 +21,5 @@ int main(void)
 - 공간 복잡도: <b>O(1)</b>.
 
 ## Tags
-- [수학]((https://github.com/myoi-oj/baekjoon-oj#math)
+- [사칙연산](https://www.acmicpc.net/problem/tag/%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
+- [수학](https://www.acmicpc.net/problem/tag/%EC%88%98%ED%95%99)
