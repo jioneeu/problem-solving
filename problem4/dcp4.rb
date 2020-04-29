@@ -51,5 +51,5 @@ def dcp4_optimized(arr)
     end
   end
 
-  return arr[size]+1
+  return size+1
 end
