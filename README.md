@@ -11,3 +11,4 @@ My solutions to daily coding problems.
 | [#3](./problem3) | Google | De/Serialization | [Ruby](./problem3/dcp3.rb) | [Read](https://www.jioneeu.com/en-dcp-3) |
 | [#4](./problem4) | Stripe | First Missing Positive Number | [Ruby](./problem4/dcp4.rb) | [Read](https://www.jioneeu.com/en-dcp-4) |
 | [#5](./problem5) | Jane Street | car and cdr | [Ruby](./problem5/dcp5.rb) | [Read](https://www.jioneeu.com/en-dcp-5) |
+| [#6](./problem6) | Google | XOR Linked List | [Ruby](./problem6/dcp6.rb) | [Read](https://www.jioneeu.com/en-dcp-6) |
