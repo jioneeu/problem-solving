@@ -7,5 +7,7 @@ My solutions to LeetCode problems.
 | Problem | Difficulties | Related Topics | Code | Explanation |
 |:-------:|:------------:|:--------------:|:----:|:-----------:|
 | [Two Sum][1] | Easy    | Array, hash Table | [Ruby](./easy/two_sum.rb) | |
+| [Reverse Integer][7] | Easy    | Implement | [Ruby](./easy/reverse_integer.rb) | |
 
 [1]: https://leetcode.com/problems/two-sum/
+[7]: https://leetcode.com/problems/reverse-integer/
