@@ -1,4 +1,5 @@
 # [Baekjoon Online Judge](https://www.acmicpc.net/) 
+[![Ruby Badge](https://img.shields.io/badge/Ruby-2.7.0-red)](#)
 
 ## 문제 난이도
 - Bronze 5 -> 4 -> 3 -> 2 -> 1
