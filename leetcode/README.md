@@ -14,6 +14,7 @@ My solutions to LeetCode problems.
 | [Valid Parentheses][20] | Easy    | Stack, String | [Ruby](./easy/valid-parentheses.rb) | |
 | [Merge Two Sorted Lists][21] | Easy    | Linked List | [Ruby](./easy/merge-two-sorted-lists.rb) | |
 | [Remove Duplicates from Sorted Array][26] | Easy    | Array, Two Pointers | [Ruby](./easy/remove-duplicates-from-sorted-array.rb) | |
+| [Remove Element][27] | Easy    | Array, Two Pointers | [Ruby](./easy/remove-element.rb) | |
 
 [1]: https://leetcode.com/problems/two-sum/
 [7]: https://leetcode.com/problems/reverse-integer/
@@ -23,3 +24,4 @@ My solutions to LeetCode problems.
 [20]: https://leetcode.com/problems/valid-parentheses/
 [21]: https://leetcode.com/problems/merge-two-sorted-list/
 [26]: https://leetcode.com/problems/remove-duplicates-from-two-sorted-array/
+[27]: https://leetcode.com/problems/remove-element/
