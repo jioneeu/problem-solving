@@ -5,11 +5,15 @@ using namespace std;
 
 #define ll long long
 #define ld long double
-#define rep(i,n) for(ll i=0;i<n;++i)
+#define rep(i,n) for(ll i=0;i<(n);++i)
+#define rep2(i,a,n) for(ll i=a;i<(n);++i)
+#define repr(i,n) for(ll i=n;i>=0; --i)
+#define repr2(i,a,n) for(ll i=n;i>=a; --i)
 #define pii pair<int,int>
 #define pll pair<ll,ll>
 #define pb push_back
 #define vi vector<int>
+#define vb vector<bool>
 #define vll vector<ll>
 #define vpi vector<pii>
 #define vpll vector<pll>
