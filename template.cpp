@@ -4,6 +4,7 @@
 using namespace std;
 
 #define ll long long
+#define ull unsigned long long
 #define ld long double
 #define rep(i,n) for(ll i=0;i<(n);++i)
 #define rep2(i,a,n) for(ll i=a;i<(n);++i)
