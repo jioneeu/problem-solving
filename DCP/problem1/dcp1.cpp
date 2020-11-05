@@ -9,16 +9,18 @@ using namespace std;
 #define cfs(n) cout<<fixed<<setprecision((n))
 #define endl '\n'
 
-bool bruteforce(vector<int> list, int k)
+bool bruteforce(vector<int> nums, int target)
 {
-  const int SIZE = list.size();
+  const int SIZE = nums.size();
   
+  // O(n)
   for (int i=0; i<SIZE-1; ++i)
   {
+    // O(n)
     for(int j=i+1; j<SIZE; ++j) 
     {
-      cout << list[i] << ' ' << list[j] << endl;
-      if (list[i] + list[j] == k)
+      cout << nums[i] << ' ' << nums[j] << endl;
+      if (nums[i] + nums[j] == target)
       {
         return true;
       }
@@ -27,13 +29,57 @@ bool bruteforce(vector<int> list, int k)
   return false;
 }
 
+bool twopass(vector<int> nums, int target)
+{
+  unordered_map<int, int> umap; 
+  const int SIZE = nums.size();
+  
+  // O(n)
+  for (int i=0; i<SIZE; ++i)
+  {
+    umap.insert({nums[i], i});
+  }
+
+  // O(n)
+  for (int i=0; i<SIZE; ++i)
+  {
+    // amortized O(1)
+    auto search = umap.find(target - nums[i]);
+    if (search != umap.end() && i != search->second) 
+      return true;
+  }
+
+  return false;
+}
+
+bool onepass(vector<int> nums, int target)
+{
+  unordered_map<int, int> umap;
+  const int SIZE = nums.size();
+
+  // O(n)
+  for (int i=0; i<SIZE; ++i)
+  {
+    // amortized O(1)
+    auto search = umap.find(target - nums[i]);
+    if (search != umap.end())
+      return true;
+    else 
+      umap.insert({nums[i], i});
+  }
+
+  return false;
+}
+
 int main(){
   ios; cfs(15);
 
-  vector<int> list {10, 15, 3, 7};
-  int k = 17;
+  vector<int> nums {10, 15, 3, 7};
+  int target = 17;
 
-  cout << ((bruteforce(list, k)) ? "true" : "false") << endl;
+  cout << ((bruteforce(nums, target)) ? "true" : "false") << endl;
+  cout << ((twopass(nums, target)) ? "true" : "false") << endl;
+  cout << ((onepass(nums, target)) ? "true" : "false") << endl;
 
   return 0;
 }
