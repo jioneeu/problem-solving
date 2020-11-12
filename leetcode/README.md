@@ -14,6 +14,6 @@ My solutions to LeetCode problems.
 [1470]: https://leetcode.com/problems/shuffle-the-array/
 [1480]: https://leetcode.com/problems/running-sum-of-1d-array/
 
-[blog-1431]: https://www.jioneeu.com/#/DCP/eng-leetcode-1431
-[blog-1470]: https://www.jioneeu.com/#/DCP/eng-leetcode-1470
-[blog-1480]: https://www.jioneeu.com/#/DCP/eng-leetcode-1480
+[blog-1431]: https://www.jioneeu.com/#/PS/eng-leetcode-1431
+[blog-1470]: https://www.jioneeu.com/#/PS/eng-leetcode-1470
+[blog-1480]: https://www.jioneeu.com/#/PS/eng-leetcode-1480
