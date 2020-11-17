@@ -15,9 +15,12 @@ My solutions to LeetCode problems.
 | [Running Sum of 1D Array][1480] | Easy    | Array | [Ruby](./easy/1480/1480.rb), [C++](./easy/1480/1480.cpp), [JS](./easy/1480/1480.js) | [:pencil2:][blog-1480] |
 | [Number of Good Pairs][1512] | Easy    | Array, Hash Table, Math | [Ruby](./easy/1512/1512.rb), [C++](./easy/1512/1512.cpp), [JS](./easy/1512/1512.js) | [:pencil2:][blog-1512] |
 | [Shuffle String][1528] | Easy    | Sort | [Ruby](./easy/1528/1528.rb), [C++](./easy/1528/1528.cpp), [JS](./easy/1528/1528.js) | [:pencil2:][blog-1528] |
+| [Design Parking System][1603] | Easy    | Design | [Ruby](./easy/1603/1603.rb), [C++](./easy/1603/1603.cpp), [JS](./easy/1603/1603.js) | [:pencil2:][blog-1603] |
+| [Subtract the Product and Sum of Digits of an Integer][1281] | Easy    | Math | [Ruby](./easy/1281/1281.rb), [C++](./easy/1281/1281.cpp), [JS](./easy/1281/1281.js) | [:pencil2:][blog-1281] |
 
 [771]: https://leetcode.com/problems/jewels-and-stones/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
+[1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
@@ -25,9 +28,11 @@ My solutions to LeetCode problems.
 [1480]: https://leetcode.com/problems/running-sum-of-1d-array/
 [1512]: https://leetcode.com/problems/number-of-good-pairs/
 [1528]: https://leetcode.com/problems/shuffle-string/
+[1603]: https://leetcode.com/problems/design-parking-system/
 
 [blog-771]: https://www.jioneeu.com/#/PS/eng-leetcode-771
 [blog-1108]: https://www.jioneeu.com/#/PS/eng-leetcode-1108
+[blog-1281]: https://www.jioneeu.com/#/PS/eng-leetcode-1281
 [blog-1342]: https://www.jioneeu.com/#/PS/eng-leetcode-1342
 [blog-1365]: https://www.jioneeu.com/#/PS/eng-leetcode-1365
 [blog-1431]: https://www.jioneeu.com/#/PS/eng-leetcode-1431
@@ -35,3 +40,4 @@ My solutions to LeetCode problems.
 [blog-1480]: https://www.jioneeu.com/#/PS/eng-leetcode-1480
 [blog-1512]: https://www.jioneeu.com/#/PS/eng-leetcode-1512
 [blog-1528]: https://www.jioneeu.com/#/PS/eng-leetcode-1528
+[blog-1603]: https://www.jioneeu.com/#/PS/eng-leetcode-1603
