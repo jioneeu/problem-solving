@@ -18,6 +18,7 @@ My solutions to LeetCode problems.
 | [Number of Good Pairs][1512] | Easy    | Array, Hash Table, Math | [Ruby](./easy/1512/1512.rb), [C++](./easy/1512/1512.cpp), [JS](./easy/1512/1512.js) | [:pencil2:][blog-1512] |
 | [Shuffle String][1528] | Easy    | Sort | [Ruby](./easy/1528/1528.rb), [C++](./easy/1528/1528.cpp), [JS](./easy/1528/1528.js) | [:pencil2:][blog-1528] |
 | [Design Parking System][1603] | Easy    | Design | [Ruby](./easy/1603/1603.rb), [C++](./easy/1603/1603.cpp), [JS](./easy/1603/1603.js) | [:pencil2:][blog-1603] |
+| [Maximum Nesting Depth of the Parentheses][1614] | Easy    | Design | [Ruby](./easy/1614/1614.rb), [C++](./easy/1614/1614.cpp), [JS](./easy/1614/1614.js) | [:pencil2:][blog-1614] |
 
 [771]: https://leetcode.com/problems/jewels-and-stones/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
@@ -31,6 +32,7 @@ My solutions to LeetCode problems.
 [1512]: https://leetcode.com/problems/number-of-good-pairs/
 [1528]: https://leetcode.com/problems/shuffle-string/
 [1603]: https://leetcode.com/problems/design-parking-system/
+[1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 
 [blog-771]: https://www.jioneeu.com/#/PS/eng-leetcode-771
 [blog-1108]: https://www.jioneeu.com/#/PS/eng-leetcode-1108
@@ -44,3 +46,4 @@ My solutions to LeetCode problems.
 [blog-1512]: https://www.jioneeu.com/#/PS/eng-leetcode-1512
 [blog-1528]: https://www.jioneeu.com/#/PS/eng-leetcode-1528
 [blog-1603]: https://www.jioneeu.com/#/PS/eng-leetcode-1603
+[blog-1614]: https://www.jioneeu.com/#/PS/eng-leetcode-1614
