@@ -62,3 +62,5 @@ dkms.conf
 
 # Cron Log
 *.cron*
+
+*.DS*
