@@ -7,6 +7,7 @@ My solutions to LeetCode problems.
 | Problem | Difficulties | Related Topics | Code | Blog |
 |:-------:|:------------:|:--------------:|:----:|:-----------:|
 | [Jewels and Stones][771] | Easy    | Hash Table| [Ruby](./easy/771/771.rb), [C++](./easy/771/771.cpp), [JS](./easy/771/771.js) | [:pencil2:][blog-771] |
+| [Middle of the Linked List][876] | Easy    | Linked List| [Ruby](./easy/876/876.rb), [C++](./easy/876/876.cpp), [JS](./easy/876/876.js) | [:pencil2:][blog-876] |
 | [Range Sum of BST][938] | Easy    | Tree, DFS, Recursion| [Ruby](./easy/938/938.rb), [C++](./easy/938/938.cpp), [JS](./easy/938/938.js) | [:pencil2:][blog-938] |
 | [Defanging an IP Address][1108] | Easy    | String | [Ruby](./easy/1108/1108.rb), [C++](./easy/1108/1108.cpp), [JS](./easy/1108/1108.js) | [:pencil2:][blog-1108] |
 | [Reformat Department Table][1179] | Easy    | String | [Ruby](./easy/1179/1179.rb), [C++](./easy/1179/1179.cpp), [JS](./easy/1179/1179.js) | [:pencil2:][blog-1179] |
@@ -28,6 +29,7 @@ My solutions to LeetCode problems.
 | [Check If Two String Arrays are Equivalent][1662] | Easy    | String| [Ruby](./easy/1662/1662.rb), [C++](./easy/1662/1662.cpp), [JS](./easy/1662/1662.js) | [:pencil2:][blog-1662] |
 
 [771]: https://leetcode.com/problems/jewels-and-stones/
+[876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [938]: https://leetcode.com/problems/range-sum-of-bst/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
 [1179]: https://leetcode.com/problems/reformat-department-table/
@@ -49,6 +51,7 @@ My solutions to LeetCode problems.
 [1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 
 [blog-771]: https://www.jioneeu.com/#/PS/eng-leetcode-771
+[blog-876]: https://www.jioneeu.com/#/PS/eng-leetcode-876
 [blog-938]: https://www.jioneeu.com/#/PS/eng-leetcode-938
 [blog-1108]: https://www.jioneeu.com/#/PS/eng-leetcode-1108
 [blog-1179]: https://www.jioneeu.com/#/PS/eng-leetcode-1179
