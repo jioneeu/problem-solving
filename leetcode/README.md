@@ -6,6 +6,7 @@ My solutions to LeetCode problems.
 ## Categories
 | Problem | Difficulties | Related Topics | Code | Blog |
 |:-------:|:------------:|:--------------:|:----:|:-----------:|
+| [Delete Node in a Linked List][237] | Easy    | Linked List| [Ruby](./easy/237/237.rb), [C++](./easy/237/237.cpp), [JS](./easy/237/237.js) | [:pencil2:][blog-237] |
 | [Jewels and Stones][771] | Easy    | Hash Table| [Ruby](./easy/771/771.rb), [C++](./easy/771/771.cpp), [JS](./easy/771/771.js) | [:pencil2:][blog-771] |
 | [Middle of the Linked List][876] | Easy    | Linked List| [Ruby](./easy/876/876.rb), [C++](./easy/876/876.cpp), [JS](./easy/876/876.js) | [:pencil2:][blog-876] |
 | [Range Sum of BST][938] | Easy    | Tree, DFS, Recursion| [Ruby](./easy/938/938.rb), [C++](./easy/938/938.cpp), [JS](./easy/938/938.js) | [:pencil2:][blog-938] |
@@ -28,6 +29,7 @@ My solutions to LeetCode problems.
 | [Maximum Nesting Depth of the Parentheses][1614] | Easy    | Design | [Ruby](./easy/1614/1614.rb), [C++](./easy/1614/1614.cpp), [JS](./easy/1614/1614.js) | [:pencil2:][blog-1614] |
 | [Check If Two String Arrays are Equivalent][1662] | Easy    | String| [Ruby](./easy/1662/1662.rb), [C++](./easy/1662/1662.cpp), [JS](./easy/1662/1662.js) | [:pencil2:][blog-1662] |
 
+[237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
 [771]: https://leetcode.com/problems/jewels-and-stones/
 [876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [938]: https://leetcode.com/problems/range-sum-of-bst/
@@ -50,6 +52,7 @@ My solutions to LeetCode problems.
 [1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 [1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 
+[blog-237]: https://www.jioneeu.com/#/PS/eng-leetcode-237
 [blog-771]: https://www.jioneeu.com/#/PS/eng-leetcode-771
 [blog-876]: https://www.jioneeu.com/#/PS/eng-leetcode-876
 [blog-938]: https://www.jioneeu.com/#/PS/eng-leetcode-938
