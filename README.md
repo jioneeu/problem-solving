@@ -5,7 +5,7 @@ My solutions to LeetCode problems.
 
 ## Categories
 | Problem | Difficulties | Related Topics | Code | Blog |
-|:-------:|:------------:|:--------------:|:----:|:-----------:|
+|:-------|:------------:|:--------------:|:----:|:-----------:|
 | [Merge Two Sorted Lists][21] | Easy    | Linked List| [Ruby](./easy/21/21.rb), [C++](./easy/21/21.cpp), [JS](./easy/21/21.js) | [:pencil2:][blog-21] |
 | [Reverse Linked List][206] | Easy    | Linked List| [Ruby](./easy/206/206.rb), [C++](./easy/206/206.cpp), [JS](./easy/206/206.js) | [:pencil2:][blog-206] |
 | [Delete Node in a Linked List][237] | Easy    | Linked List| [Ruby](./easy/237/237.rb), [C++](./easy/237/237.cpp), [JS](./easy/237/237.js) | [:pencil2:][blog-237] |
