@@ -43,6 +43,7 @@
 - `1` [x만큼 간격이 있는 n개의 숫자](https://github.com/j2ieu/cp/blob/programmers/level1/12954.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12954)
 - `1` [직사각형 별찍기](https://github.com/j2ieu/cp/blob/programmers/level1/12969.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12969)
 - `1` [3진법 뒤집기 (월간 코드 챌린지 시즌1)](https://github.com/j2ieu/cp/blob/programmers/level1/68935.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/68935)
+- `1` [내적 (월간 코드 챌린지 시즌1)](https://github.com/j2ieu/cp/blob/programmers/level1/70128.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/70128)
 - `1` [음양 더하기 (월간 코드 챌린지 시즌2)](https://github.com/j2ieu/cp/blob/programmers/level1/76501.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/76501)
 - `1` [로또의 최고 순위와 최저 순위 (2021 Dev-Matching: 웹 백엔드 개발자](https://github.com/j2ieu/cp/blob/programmers/level1/77484.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/77484)
 
@@ -78,6 +79,7 @@
 - `1` [평균 구하기](https://github.com/j2ieu/cp/blob/programmers/level1/12944.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12944)
 - `1` [행렬의 덧셈](https://github.com/j2ieu/cp/blob/programmers/level1/12950.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12950)
 - `1` [소수 만들기 (Summer/Winter Coding(~2018))](https://github.com/j2ieu/cp/blob/programmers/level1/12977.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12977)
+- `1` [예산 (Summer/Winter Coding(~2018))](https://github.com/j2ieu/cp/blob/programmers/level1/12982.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12982)
 - `1` [키패드 누르기 (2020 카카오 인턴십)](https://github.com/j2ieu/cp/blob/programmers/level1/67256.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/67256)
 - `1` [약수의 개수와 덧셈 (월간 코드 챌린지 시즌2)](https://github.com/j2ieu/cp/blob/programmers/level1/77884.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/77884)
 
