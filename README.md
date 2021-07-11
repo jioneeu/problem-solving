@@ -2,6 +2,7 @@
 
 This repository contains C++ solutions to various [leetcode](https://leetcode.com) problems.
 
+- [Graph](#graph)
 - [Linked List](#linkedlist)
 - [Math](#math)
 - [Stack](#stack)
@@ -15,6 +16,9 @@ This repository contains C++ solutions to various [leetcode](https://leetcode.co
 🔗 - A link to the original problem
 
 <br>
+
+## Graph <a id="graph"></a> 
+- `1` [1791. Find Center of Star Graph](https://github.com/j2ieu/cp/tree/leetcode/easy/1791/1791.md) [🔗](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 
 ## LinkedList <a id="linkedlist"></a>
 - `1` [1290. Convert Binary Number in a Linked List to Integer](https://github.com/j2ieu/cp/tree/leetcode/easy/1290) [🔗](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
