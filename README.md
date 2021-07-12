@@ -59,6 +59,7 @@
 - `1` [핸드폰 번호 가리기](https://github.com/j2ieu/cp/blob/programmers/level1/12948.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12948)
 - `1` [다트 게임 (2018 KAKAO BLIND RECRUITMENT)](https://github.com/j2ieu/cp/blob/programmers/level1/17682.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/17682)
 - `1` [신규 아이디 추천 (2021 KAKAO BLIND RECRUITMENT)](https://github.com/j2ieu/cp/blob/programmers/level1/72410.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/72410)
+- `1` [숫자 문자열과 영단어 (2021 카카오 채용연계형 인턴십 )](https://github.com/j2ieu/cp/blob/programmers/level1/81301.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/81301)
   
 <br>
 
