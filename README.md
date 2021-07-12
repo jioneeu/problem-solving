@@ -4,6 +4,7 @@
 
 - [구현 & 시뮬레이션 (Implementation & Simulation)](#impsim)
 - [문자열 (String Manipulation)](#strmanip)
+- [비트마스크 (Bit mask)](#bitmask)
 - [브루트포스 (Bruteforce)](#bruteforce)
 - [수학 (Math)](#math)
 - [스택 (Stack)](#stack)
@@ -61,6 +62,12 @@
 - `1` [신규 아이디 추천 (2021 KAKAO BLIND RECRUITMENT)](https://github.com/j2ieu/cp/blob/programmers/level1/72410.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/72410)
 - `1` [숫자 문자열과 영단어 (2021 카카오 채용연계형 인턴십 )](https://github.com/j2ieu/cp/blob/programmers/level1/81301.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/81301)
   
+<br>
+
+<a id="bitmask"></a>
+## 비트마스크 (Bit mask)
+- `1` [비밀지도(2018 KAKAO BLIND RECRUITMENT)](https://github.com/j2ieu/cp/blob/programmers/level1/17681.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/17681)
+
 <br>
 
 <a id="bruteforce"></a>
