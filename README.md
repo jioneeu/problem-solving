@@ -95,6 +95,7 @@
 
 <a id="stack"></a>
 ## 스택 (Stack) 
+- `2` [짝지어 제거하기 (2017 팁스타운)](https://github.com/j2ieu/cp/blob/programmers/level2/12973.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12973)
 - `1` [크레인 인형뽑기 게임(2019 카카오 개발자 겨울 인턴십)](https://github.com/j2ieu/cp/blob/programmers/level1/64061.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/64061)
 
 <br>
