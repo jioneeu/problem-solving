@@ -28,6 +28,7 @@
 ## 구현 & 시뮬레이션 (Implementation & Simulation)
 문제에 나와있는 상황과 조건을 토대로 구현하는 유형의 문제.
 - `1` [폰켓몬 (찾아라 프로그래밍 마에스터)](https://github.com/j2ieu/cp/blob/programmers/level1/1845.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/1845)
+- `2` [124 나라의 숫자](https://github.com/j2ieu/cp/blob/programmers/level2/12899.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12899)
 - `1` [2016년](https://github.com/j2ieu/cp/blob/programmers/level1/12901.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12901)
 - `1` [같은 숫자는 싫어](https://github.com/j2ieu/cp/blob/programmers/level1/12906.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12906)
 - `1` [두 정수 사이의 합](https://github.com/j2ieu/cp/blob/programmers/level1/12912.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12912)
