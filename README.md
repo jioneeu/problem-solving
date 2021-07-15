@@ -7,6 +7,7 @@ This repository contains C++ solutions to various [leetcode](https://leetcode.co
 - [Math](#math)
 - [Stack](#stack)
 - [Tree](#tree)
+- [Trie](#trie)
  
 <br>
 
@@ -37,3 +38,6 @@ This repository contains C++ solutions to various [leetcode](https://leetcode.co
 - `1` [144. Binary Tree Preorder Traversal](https://github.com/j2ieu/cp/tree/leetcode/easy/144) [🔗](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - `1` [617. Merge Two Binary Trees](https://github.com/j2ieu/cp/tree/leetcode/easy/617) [🔗](https://leetcode.com/problems/merge-two-binary-trees/)
 - `1` [965. Univalued Binary Tree](https://github.com/j2ieu/cp/tree/leetcode/easy/965) [🔗](https://leetcode.com/problems/univalued-binary-tree/)
+
+## Trie <a id="trie"></a>
+- `1` [1268 Search Suggestions System](https://github.com/j2ieu/cp/tree/leetcode/medium/1268.cpp) [🔗](https://leetcode.com/problems/search-suggestions-system/)
