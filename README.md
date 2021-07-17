@@ -2,7 +2,6 @@
 
 이 저장소는 [programmers](https://programmers.co.kr/learn/challenges) 코딩테스트 연습 문제들의 C++ 기반 풀이 코드를 담고 있습니다.  
 
-- [프로그래머스 문제 풀이](#프로그래머스-문제-풀이)
 - [구현 & 시뮬레이션 (Implementation & Simulation)](#구현--시뮬레이션-implementation--simulation)
 - [문자열 (String Manipulation)](#문자열-string-manipulation)
 - [비트마스크 (Bit mask)](#비트마스크-bit-mask)
