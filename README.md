@@ -2,12 +2,14 @@
 
 This repository contains C++ solutions to various [leetcode](https://leetcode.com) problems.
 
-- [Graph](#graph)
-- [Linked List](#linkedlist)
-- [Math](#math)
-- [Stack](#stack)
-- [Tree](#tree)
-- [Trie](#trie)
+- [Leetcode Solutions](#leetcode-solutions)
+  - [Graph <a id="graph"></a>](#graph-)
+  - [Hash <a id="hash"></a>](#hash-)
+  - [LinkedList <a id="linkedlist"></a>](#linkedlist-)
+  - [Math <a id="math"></a>](#math-)
+  - [Stack <a id="stack"></a>](#stack-)
+  - [Tree <a id="tree"></a>](#tree-)
+  - [Trie <a id="trie"></a>](#trie-)
  
 <br>
 
@@ -21,6 +23,9 @@ This repository contains C++ solutions to various [leetcode](https://leetcode.co
 ## Graph <a id="graph"></a> 
 - `1` [1791. Find Center of Star Graph](https://github.com/j2ieu/cp/tree/leetcode/easy/1791/1791.md) [🔗](https://leetcode.com/problems/find-center-of-star-graph/)
 - `1` [997. Find the town judge](https://github.com/j2ieu/cp/tree/leetcode/easy/997/997.md) [🔗](https://leetcode.com/problems/find-the-town-judge/)
+
+## Hash <a id="hash"></a>
+- `1` [705. Design HashSet](https://github.com/j2ieu/cp/tree/leetcode/easy/705.md) [🔗](https://leetcode.com/problems/design-hashset)
 
 ## LinkedList <a id="linkedlist"></a>
 - `1` [1290. Convert Binary Number in a Linked List to Integer](https://github.com/j2ieu/cp/tree/leetcode/easy/1290) [🔗](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
