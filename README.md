@@ -2,16 +2,17 @@
 
 이 저장소는 [programmers](https://programmers.co.kr/learn/challenges) 코딩테스트 연습 문제들의 C++ 기반 풀이 코드를 담고 있습니다.  
 
-- [구현 & 시뮬레이션 (Implementation & Simulation)](#impsim)
-- [문자열 (String Manipulation)](#strmanip)
-- [비트마스크 (Bit mask)](#bitmask)
-- [브루트포스 (Bruteforce)](#bruteforce)
-- [수학 (Math)](#math)
-- [스택 (Stack)](#stack)
-- [정렬 (Sorting)](#sort)
-- [탐색 (Searches)](#search)
-- [탐욕 알고리즘 (Greedy)](#greedy)
-- [해시 (Hash)](#hash)
+- [프로그래머스 문제 풀이](#프로그래머스-문제-풀이)
+  - [구현 & 시뮬레이션 (Implementation & Simulation)](#구현--시뮬레이션-implementation--simulation)
+  - [문자열 (String Manipulation)](#문자열-string-manipulation)
+  - [비트마스크 (Bit mask)](#비트마스크-bit-mask)
+  - [브루트포스 (Bruteforce)](#브루트포스-bruteforce)
+  - [수학 (Math)](#수학-math)
+  - [스택 (Stack)](#스택-stack)
+  - [정렬 (Sorting)](#정렬-sorting)
+  - [탐색 (Searches)](#탐색-searches)
+  - [탐욕 알고리즘 (Greedy)](#탐욕-알고리즘-greedy)
+  - [해시 (Hash)](#해시-hash)
  
  > 직접 문제를 풀고 주제별/패러다임별 분류를 하고 있습니다. 잘못된 부분이 있다면 재분류 한 다음 PR 해주시길 부탁드립니다. 
  
@@ -44,6 +45,7 @@
 - `1` [하샤드 수](https://github.com/j2ieu/cp/blob/programmers/level1/12947.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12947)
 - `1` [x만큼 간격이 있는 n개의 숫자](https://github.com/j2ieu/cp/blob/programmers/level1/12954.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12954)
 - `1` [직사각형 별찍기](https://github.com/j2ieu/cp/blob/programmers/level1/12969.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/12969)
+- `2` [기능개발](https://github.com/j2ieu/cp/blob/programmers/level2/42586.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/42586)
 - `1` [3진법 뒤집기 (월간 코드 챌린지 시즌1)](https://github.com/j2ieu/cp/blob/programmers/level1/68935.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/68935)
 - `1` [내적 (월간 코드 챌린지 시즌1)](https://github.com/j2ieu/cp/blob/programmers/level1/70128.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/70128)
 - `1` [음양 더하기 (월간 코드 챌린지 시즌2)](https://github.com/j2ieu/cp/blob/programmers/level1/76501.md) [🔗](https://programmers.co.kr/learn/courses/30/lessons/76501)
